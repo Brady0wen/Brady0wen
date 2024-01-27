@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Brady0wen
-- 👀 I’m interested in blockchain, especially Solana.
-- 🌱 I’m currently learning SEO.
-- 💞️ I’m looking to collaborate on anything related to the Solana ecosystem.
+- 👀 I’m obsessed with crypto
+- 🌱 I do search engine optimization
 - 📫 How to reach me @bradyowen_ on Twitter
 
 <!---
